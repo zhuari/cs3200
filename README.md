@@ -32,7 +32,6 @@ created: datetime - datetime account was created
 updated: datetime - datetime account was updated
 
 7.	Domain object data models
-
 Cocktails
 The Cocktails class records the name of a cocktail and if it is alcoholic.
 name: string - cocktail name
